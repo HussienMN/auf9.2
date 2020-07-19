@@ -14,7 +14,7 @@
       </div>
 
       <div class="column middle">
-        <h2>Diese Listen sind mit Vue js Komponent erstellet</h2>
+        <h2>das ist kontakt page</h2>
       </div>
 
       <div class="column side"></div>
